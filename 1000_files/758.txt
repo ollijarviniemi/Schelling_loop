@@ -1,0 +1,3 @@
+GDP-D-glucose phosphorylase
+
+GDP-D-glucose phosphorylase () is an enzyme with systematic name GDP:alpha-D- glucose 1-phosphate guanylyltransferase. This enzyme catalyses the following chemical reaction : GDP-alpha-D-glucose + phosphate \rightleftharpoons alpha- D-glucose 1-phosphate + GDP The enzyme may be involved in prevention of misincorporation of glucose in place of mannose residues into glycoconjugates. == References == == External links == * Category:EC 2.7.7 

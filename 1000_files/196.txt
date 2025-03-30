@@ -1,0 +1,3 @@
+6A RNA motif
+
+The 6A RNA motif is a conserved RNA structure that was discovered by bioinformatics. 6A motifs are found in Actinobacteria, Firmicutes AND Fusobacteria. 6A RNAs likely function in trans as sRNAs, and contain a pseudoknot. The 6A RNA motif was named after 6 A (adenosine) nucleotides that are highly conserved in the structure. No other nucleotides are highly conserved. Many 6A RNAs occur adjacent to other 6A RNAs, although no hypothesis to explain this phenomenon has been proposed. ==References== Category:Non-coding RNA 

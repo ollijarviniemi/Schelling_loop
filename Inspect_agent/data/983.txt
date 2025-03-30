@@ -1,0 +1,3 @@
+NDUFAF8
+
+NADH:ubiquinone oxidoreductase complex assembly factor 8 is a protein that in humans is encoded by the NDUFAF8 gene. This protein stabilizes NDUFAF5 during assembly of mitochondrial Complex I. == Structure == The NDUFAF8 gene is located on the q arm of chromosome 17 in position 25.3 and spans 1,987 base pairs. The gene produces a 7.756 kDa protein composed of 74 amino acids. == Function == The protein encoded by the NDUFAF8 gene is involved in the assembly of mitochondrial Complex I (NADH-ubiquinone oxidoreductase). This protein is required to stabilize NDUFAF5 during assembly of Complex I. == Interaction == NDUFAF8 has protein-protein interactions with NDUFAF5, stabilizing it. == References == == Further reading == 

@@ -1,0 +1,3 @@
+Thematic role
+
+Thematic role is a linguistic notion, which may refer to: * Theta role (in syntax or at the syntax-semantics interface), the formal device for representing syntactic argument structure—the number and type of noun phrases—required syntactically by a particular verb * Thematic relation (in semantics), a term to express the role that a noun phrase plays with respect to the action or state described by a governing verb 
