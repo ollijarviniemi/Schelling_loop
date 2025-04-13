@@ -9,7 +9,6 @@ def rename_text_files(directory_path):
     
     Args:
         directory_path: Path to the directory containing text files to rename
-        prefix: Prefix to use for the new filenames
     """
     # Ensure the directory exists
     if not os.path.exists(directory_path):
